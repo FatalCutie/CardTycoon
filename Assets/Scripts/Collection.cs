@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/CardCollection", order = 2)]
-public class Collection : MonoBehaviour
+[CreateAssetMenu(fileName = "Collection", menuName = "ScriptableObjects/CardCollection", order = 2)]
+public class Collection : ScriptableObject
 {
     public string collectionName;
     public List<SOCard> set; //Divide cards into different raritys?

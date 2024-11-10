@@ -244,7 +244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fb428266cbbfc5479e8416d8095e844, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  packToOpen: {fileID: 0}
+  packToOpen: {fileID: 11400000, guid: fd5aede4f8eb3bd49bcd3d3bdecc8e03, type: 2}
   rarities: 00000000010000000200000003000000
 --- !u!4 &611171340
 Transform:
